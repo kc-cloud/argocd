@@ -1,5 +1,5 @@
 # argocd
-Continous Delivery Tool for kubernetes cluster
+Continous Delivery Tool for Kubernetes Clusters
 
 ## Deploy ArgoCD
 ```
